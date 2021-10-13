@@ -1,0 +1,2 @@
+alter table nof_empresas modify empresa_e CHAR(10);
+alter table nof_operarios modify empresa_o CHAR(10)
